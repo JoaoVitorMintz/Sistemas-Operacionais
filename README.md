@@ -14,3 +14,5 @@ Ao estudar a matéria de Sistemas Operacionais, acabamos por realizar as ativida
 
  
  - [Lab 03 - Introdução à threads](https://github.com/fci-sisop20252/lab3-introthreads-JoaoVitorMintz)
+
+ - [Lab 04 - Sincronização de threads](https://github.com/JoaoVitorMintz/lab-4-syncthreads-JoaoVitorMintz)
